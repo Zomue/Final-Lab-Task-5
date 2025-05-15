@@ -23,7 +23,10 @@ CREATE a STORED PROCEDURE that WILL take a SINGLE PARAMETER and UPDATED the Name
 CREATE A Function that will take 2 parameters(v_code and v_state) and display All the product description and price based on the parameters passed to the function
 
 # SCREENSHOTS OF THE OUTPUT! 
-
+SQL.
 ![Image](https://github.com/user-attachments/assets/f5b8788a-7813-441a-9254-45678f7487ca)
+Output.
+![Image](https://github.com/user-attachments/assets/1dbe3c1a-33d1-4e4d-b010-121bf0219f1e)
+
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
