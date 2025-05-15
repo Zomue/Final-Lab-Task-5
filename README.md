@@ -24,6 +24,6 @@ CREATE A Function that will take 2 parameters(v_code and v_state) and display Al
 
 # SCREENSHOTS OF THE OUTPUT! 
 
-![picture](https://github.com/Zomue/Zomue.github.io/blob/main/Image/1.1.jpg)
+![Image](https://github.com/user-attachments/assets/f5b8788a-7813-441a-9254-45678f7487ca)
 
 [BACK TO PORTFOLIO](https://zomue.github.io/)
